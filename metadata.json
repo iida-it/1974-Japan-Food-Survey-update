@@ -1,0 +1,6 @@
+{
+  "name": "1974 Japan Food Survey Rapid Digitizer",
+  "description": "Rapid transcription and digitizer tool for 1974 Japan National Nutrition and Food Intake Surveys with 3-column per item numeric entry and PDF/image viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
